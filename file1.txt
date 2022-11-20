@@ -2,3 +2,5 @@ hello git
 second
 third - my branch
 fourth - my branch
+기능 1 추가
+some hot fix
